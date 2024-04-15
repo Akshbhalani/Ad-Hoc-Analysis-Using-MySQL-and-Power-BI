@@ -17,7 +17,7 @@ Let’s be more precise about the requirements for this project through the foll
 ## Tools:
 • **SQL**: To extract and manipulate data from the database to answer the 10 ad-hoc requests for insights.
 
-• **Power BI**: As a visualization tool to present my findings.(you can use other tools too e.g Excel)
+• **Power BI**: As a visualization tool to present my findings.
 
 
 
