@@ -1,6 +1,3 @@
-# Ad-Hoc Analysis in The Consumer Goods Industry
-![image](https://user-images.githubusercontent.com/102472369/221034038-1680e7c6-160b-4765-8aa6-0396f958cbad.png)
-
 ## Overview:
 Atliq Hardwares (Imaginary Company) is a leading computer hardware producer in India and is expanding globally. 
 However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions. The management recognizes the importance of data analytics in driving informed business decisions and has decided to strengthen their data analytics team by hiring several junior data analysts. To achieve this goal, the company's data analytics director has decided to conduct a SQL challenge to evaluate the technical and soft skills of potential candidates. The challenge will assess their SQL proficiency, ability to work within strict deadline, communication skills, and collaboration skills. The results of the challenge will be used to make informed hiring decisions and build a strong and effective data analytics team that will support Atliq Hardwares in making data-driven decisions and expanding its reach in the global market.
@@ -21,40 +18,6 @@ Let’s be more precise about the requirements for this project through the foll
 • **SQL**: To extract and manipulate data from the database to answer the 10 ad-hoc requests for insights.
 
 • **Power BI**: As a visualization tool to present my findings.(you can use other tools too e.g Excel)
-
-
-
-## 1)	Setup ‘atliq_hardware_db’file in MySQL
-
-Firstly, download ‘atliq_hardware_db’ file. Open MySQL Workbench and set up the connection with user name and password. To import the file, click on **Server > Data Import**.
-
-![s11](https://user-images.githubusercontent.com/102472369/221019016-8922b962-565b-4bba-8af0-442f92059134.png)
-
-Choose the option Import from Self-Contained File and click on the three dots to select the file.
-
-![s12](https://user-images.githubusercontent.com/102472369/221019162-51dcfe4a-c0a8-4fc5-b1f9-35bc1418d5ea.png)
-
-Once the import is completed, you should see the below table *'gdb041'*:
-
-![s13](https://user-images.githubusercontent.com/102472369/221019280-0a883ebc-a021-4d5a-9cc8-3acdd8d5d5c7.png)
-
-
-
-
-## 2)	 Connect MySQL database with Power BI:
-Open Power BI Desktop app and click on **Get data > more > MySQL database** and fill out the informations.
-
-![po2 (2)](https://user-images.githubusercontent.com/102472369/221025238-842970d3-8f32-4e12-a6fb-3481682a882e.PNG)
-
-After writing the sql statement you will be able to see the output. Now you just have to load the data and proceed with the visualization.
-
-![po4 (2)](https://user-images.githubusercontent.com/102472369/221025878-11f2efd9-9adc-47ee-b902-1f1852dc2c93.PNG)
-
-
-
-
-
-
 
 
 
